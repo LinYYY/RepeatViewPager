@@ -1,0 +1,3 @@
+# RepeatViewPager
+
+通过自定LayoutManager实现无限循环viewpager效果
